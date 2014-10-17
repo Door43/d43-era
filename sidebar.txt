@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[era:home|Door43 (era)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-era|d43-era repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-era/archive/master.zip|d43-era.zip]]
+
+**Recent Changes**
+{{changes>ns = era}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/era|Ethnologue data]]
+
